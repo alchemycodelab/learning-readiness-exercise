@@ -1,10 +1,11 @@
 Instructional Interview
 ===
 
-This project repository contains code for a web page, listed in the file called [index.html](index.html) listed above. You will very likely 
+This project repository contains code for a web page, listed in the 
+file called [index.html](index.html) listed above. You will very likely 
 not be familiar with some, or even _any_, of the code in this project.
 
-In preparation for the interview, please take some time to:
+In preparation for the interview, please some time (but no more than an hour) to:
 
 1. Come up with questions you have about the code. This may be based on:
     * Seeking basic understanding
