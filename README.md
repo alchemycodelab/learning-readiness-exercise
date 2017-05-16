@@ -1,4 +1,4 @@
-Learning Readiness Exercises
+Learning Readiness Exercise
 ===
 
 This project repository contains code for a web page, listed in the 
