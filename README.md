@@ -1,4 +1,4 @@
-Instructional Interview
+Learning Readiness Exercises
 ===
 
 This project repository contains code for a web page, listed in the 
@@ -7,7 +7,8 @@ not be familiar with some, or even _any_, of the code in this project.
 
 In preparation for the interview, please some time (but no more than an hour) to:
 
-1. Come up with questions you have about the code. This may be based on:
+1. Come up with questions you have about the code. It does not need to be
+an exhaustive list of every question you have, just pick a few things. This may be based on:
     * Seeking basic understanding
     * Something you don't understand well
     * Something different or new that you haven't seen
