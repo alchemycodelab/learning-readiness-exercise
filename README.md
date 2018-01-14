@@ -2,7 +2,7 @@ Learning Readiness Exercise
 ===
 
 This project repository contains code for a web page, listed in the
-file called [index.html](index.html). 
+file called [index.html](index.html). It also uses another file called [friends.json](friends.json).
 
 You may not be familiar with some, or even _any_, of the code used in this project. This exercise 
 is **not** about what you may or may not already know about the code being used. Rather it
