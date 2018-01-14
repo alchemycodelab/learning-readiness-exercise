@@ -18,13 +18,13 @@ In preparation for the interview, please take some time (but you do not need to 
 go through the following process several times:
 
 1. Formulate a question you have about the code. This may be based on:
-    * Seeking basic understanding
-    * Something you don't understand well
-    * Something different or new that you haven't seen
+    * Seeking basic understanding,
+    * Something you don't understand well,
+    * Something different or new that you haven't seen, or
     * Your curiosity
 2. Do some online research and see if you can:
-    * Find answers
-    * Come up with more refined questions
+    * Find answers,
+    * Come up with more refined questions, and/or
     * Come up with new questions that the research inspires
 3. Be prepared to share what you learned and explain the process you 
 went through **concretely and specifically**
