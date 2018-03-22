@@ -41,7 +41,7 @@
     <script>
         const ul = document.getElementById('friends');
 
-        fetch('/friends.json')
+        fetch('friends.json')
             .then(response => response.json())
             .then(friends => {
                 friends.forEach(friend => {
