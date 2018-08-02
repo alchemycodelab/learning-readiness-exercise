@@ -46,7 +46,7 @@
             .then(friends => {
                 friends.forEach(friend => {
                     const li = document.createElement('li');
-                    li.innerText = `${friend.first} ${friend.last}`;
+                    li.textContent = `${friend.first} ${friend.last}`;
                     ul.appendChild(li);
                 });
             });   
