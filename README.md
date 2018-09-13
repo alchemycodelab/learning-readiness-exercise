@@ -1,20 +1,42 @@
 Learning Readiness Exercise
 ===
 
-This project repository contains code for a web page, listed in the
-file called [index.html](index.html). It also uses another file called [friends.json](friends.json).
+## Intro
 
-You can view a running version of the site [here](https://alchemycodelab.github.io/learning-readiness-exercise/)
+This project repository contains code for a web page, listed in the
+file [index.html](index.html). It also uses another file [friends.json](friends.json) that contains
+data that will be used from `index.html`.
+
+**You can view a running version of the site [here](https://alchemycodelab.github.io/learning-readiness-exercise/)**
+
+## About `index.html`
+
+The `index.html` file contains three different coding languages:
+
+1. The file itself is written in `HTML`
+1. Inside the `<style>` tag is `CSS`
+1. Inside the `<script>` tag is `JavaScript`
+
+In the "real world", we often split the `CSS` and `JavaScript` into separate files, but for simplicity they
+have been "inlined", meaning including directly within the `HTML` file.
+
+## Goal
 
 You may not be familiar with some, or even _any_, of the code used in this project. This exercise 
-is **not** about what you may or may not already know about the code being used. Rather it
-is about:
+is **not** about what you may or may not already know about the code being used. What it **is** about:
 
-1. What you are able to learn on your own about what you do not know.
+1. What you are able to research and learn on your own about _what you do not know_.
 2. Attention to detail and your ability to follow through on instructions.
+
+This code sample is designed to have some parts that are new for a variety of incoming backgrounds, including true
+beginners and those who may have had some exposure to coding. 
+
+**It is important that you focus on what is unfamiliar to you.**
 
 If you feel that you fully understand _all_ of the code being used (including the JavaScript) and 
 could write such code yourself, you should probably talk with us about testing into a higher level course.
+
+## Instructions: Part 1
 
 In preparation for the interview, please take some time (but you do not need to spend more than an hour) to
 go through the following process several times:
@@ -34,9 +56,13 @@ went through **concretely and specifically**
 Again, the interview is **not** about technical knowledge, but rather about _your
 approach to encountering new things and learning_. 
 
-In addition, during the interview you will also be asked about:
+You are welcome to bring in notes or your computer to the LRE interview
 
-* Specific experiences in any area of your life in which you solved a problem or overcame
-a challenge and what you felt were the critical actions you took to achieving success.
-* Why the day-to-day activity of coding is appealing to you.
+## Instructions: Part 2
+
+During the interview you will also be asked about:
+
+1. **Specific** experiences in any area of your life in which you solved a problem or overcame
+a challenge and what you felt were the critical actions or approaches you took to achieving success.
+2. Why the day-to-day activity of coding is appealing to you.
 
