@@ -9,6 +9,10 @@ data that will be used from `index.html`.
 
 **You can view a running version of the site [here](https://alchemycodelab.github.io/learning-readiness-exercise/)**
 
+(NOTE: You are welcome to download or copy the code and run it locally on your machine, but that is not required. Be aware that most modern
+browsers will not allow a file to request other files from your computer for security reasons. This means you may not see the rendered
+list of friends. You _can_ use a static web server, but that is beyond the scope of this exercise)
+
 ## About `index.html`
 
 The `index.html` file contains three different coding languages:
