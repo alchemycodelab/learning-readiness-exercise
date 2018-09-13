@@ -17,7 +17,7 @@ The `index.html` file contains three different coding languages:
 1. Inside the `<style>` tag is `CSS`
 1. Inside the `<script>` tag is `JavaScript`
 
-In the "real world", we often split the `CSS` and `JavaScript` into separate files, but for simplicity they
+In the "real world", we usually split the `CSS` and `JavaScript` into separate files, but for simplicity they
 have been "inlined", meaning including directly within the `HTML` file.
 
 ## Goal
