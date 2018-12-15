@@ -29,11 +29,12 @@ have been "inlined", meaning including directly within the `HTML` file.
 You may not be familiar with some, or even _any_, of the code used in this project. This exercise 
 is **not** about what you may or may not already know about the code being used. What it **is** about:
 
-1. What you are able to research and learn on your own about _what you do not know_.
-2. Attention to detail and your ability to follow through on instructions.
+1. Attention to detail and your ability to follow through on instructions
+2. What you are able to research and learn on your own about _what you do not know_
+3. Your ability to communicate your experiences specifically with examples
 
 This code sample is designed to have some parts that are new for a variety of incoming backgrounds, including true
-beginners and those who may have had some exposure to coding. 
+beginners who very little about code, and those who may have had some exposure  practice in coding. 
 
 **It is important that you focus on what is unfamiliar to you.**
 
@@ -46,18 +47,19 @@ In preparation for the interview, please take some time (but you do not need to 
 go through the following process several times:
 
 1. Formulate a question you have about the code. This may be based on:
-    * Seeking basic understanding,
-    * Something you don't understand well,
-    * Something different or new that you haven't seen, or
     * Your curiosity
+    * Seeking basic understanding
+    * Something you don't understand well
+    * Something different or new that you haven't seen
 2. Do some online research and see if you can:
     * Find answers,
     * Come up with more refined questions, and/or
     * Come up with new questions that the research inspires
-3. Be prepared to share what you learned and explain the process you 
-went through **concretely and specifically**
+3. Be **prepared to share**:
+   * What you found out **concretely and specifically**
+   * What was still confusing or things that you did not find answers to
     
-Again, the interview is **not** about technical knowledge, but rather about _your
+Again, the interview is **not** about technical knowledge or experience, but rather about _your
 approach to encountering new things and learning_. 
 
 You are welcome to bring in notes or your computer to the LRE interview
@@ -66,7 +68,7 @@ You are welcome to bring in notes or your computer to the LRE interview
 
 During the interview you will also be asked about:
 
-1. **Specific** experiences in any area of your life in which you solved a problem or overcame
-a challenge and what you felt were the critical actions or approaches you took to achieving success.
-2. Why the day-to-day activity of coding is appealing to you.
+1. A **specific** experience in any area of your life in which you solved a problem or overcame
+a challenge and what you felt were the critical actions or approaches you took to achieving success
+2. Why the day-to-day activity of coding is appealing to you
 
