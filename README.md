@@ -34,7 +34,7 @@ What it **is** about:
 
 1. Attention to detail and your ability to follow through on instructions
 2. What you are able to research and learn on your own about _what you do not know_
-3. Your ability to communicate your experiences specifically with examples
+3. Your ability to communicate your experiences **specifically with examples**
 
 This code sample is designed to have some parts that are new for a variety of incoming backgrounds, including true
 beginners who very little about code, and those who may have had some exposure  practice in coding. 
