@@ -27,7 +27,10 @@ have been "inlined", meaning including directly within the `HTML` file.
 ## Goal
 
 You may not be familiar with some, or even _any_, of the code used in this project. This exercise 
-is **not** about what you may or may not already know about the code being used. What it **is** about:
+is **not** about what you may or may not already know about the code being used. You are not 
+being asked to write any code.
+
+What it **is** about:
 
 1. Attention to detail and your ability to follow through on instructions
 2. What you are able to research and learn on your own about _what you do not know_
